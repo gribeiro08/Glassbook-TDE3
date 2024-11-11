@@ -1,28 +1,29 @@
-#API Gateway AWS (Request para o BFF)
+# Evidencias
 
+## Evidencia dos containers
+![Evidencia que ha todos o BFF e o Microserviço então conteinerizados](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/Conteiners.png)
 
-#BFF no Azure Container Apps ( Request para o Microsserviço e Azure Function)
-![Evidencia do container do BFF](imgs/bffcontainer.png)
+## Evidencia do API Gateway
+![Evidencia do API Gateway](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/APIGateway.png)
 
-![Evidencia do BFF no Github](imgs/bffroutes.png)
+## Evidencia que os códigos estão no Github
+![Evidencia que ha todos os repositórios do Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/Github.png)
 
-#Microsserviço utilizado de Clean Architecture e Vertical Slice e Camadas, conectando ao banco de dados SQL Server.
+**Importante!!!** Nossos repositórios estão privados, enviei solicitação para o professor participar deles se necessário.
 
+**Glassbook** 
+Repositório referente ao microserviço
+Nessa imagem é possível observar que o Microserviço está cumprindo com Clean Architecture e Vertical Slice e Camadas
+![Evidencia do repositório no Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/GitMicroservico.png)
 
-#Azure Functions conectando ao banco de dados MongoDB.
+**Glassbook-Functions** 
+Repositório referente as Functions
+![Evidencia do repositório no Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/GitFunction.png)
 
+**Glassbook-BFF** 
+Repositório referente ao BFF
+![Evidencia do repositório no Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/GitBFF.png)
 
-#Eventos entre Microsserviço e Azure Functions via Azure Service Bus.
-
-
-#Evidencia de todos os códigos fontes (BFF, Microsserviço e Azure Function)
-
-
-#Evidencia de Request e Response no API gateway de dado INSERIDO em banco de dados (evidência do banco de dados também).
-
-
-#Evidencia do evento do Azure Service Bus.
-
-
-#Teste unitário de arquitetura. 
-
+**Glassbook-TDE3** 
+Repositório referente aos arquivos .md requeridos como entrega da somativa
+![Evidencia do repositório no Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/GitEntrega.png)
