@@ -1,1 +1,3 @@
+![alt text](<imgs/architeture canvas.png>)
+
 https://miro.com/welcomeonboard/d1k5R2RndHdOMWxBd3E1UjVSYWRuV2lnL0laZmZhVzBMTVBlbE0zVTVCOXZaUjhmNU81L2prNGpNYVUxNENhM3FOYjF6TE9iUDJsb3Joek5zbURuMGs4L1lpczkzeDRuWkVzRlZUS3VieEJSa3pBekg2Wk5yenVFVEluVDdsN04hZQ==?share_link_id=736077233718
