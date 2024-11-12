@@ -27,3 +27,27 @@ Repositório referente ao BFF
 **Glassbook-TDE3** 
 Repositório referente aos arquivos .md requeridos como entrega da somativa
 ![Evidencia do repositório no Github](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/GitEntrega.png)
+
+# Evidencias de funcionamento
+**Tudo esta sendo rodado a partir do endpoint do API Gateway!!**
+
+## ServiceBus
+
+O microserviço é o publisher e a Function o Subscriber
+
+### Enviando JSON pelo microserviço 
+![Evidencia](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/postPub.png)
+
+### Monitoramento no SB
+![Evidencia](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/sbMovimentado.png)
+
+### MongoDB (Evidencia que foi salvo no mongoDB, no caso o banco que esta conectado com a function)
+![Evidencia](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/asyncMongoDB.png)
+
+### Publisher
+![Evidencia](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/publisher.png)
+
+### Subscriber
+![Evidencia](https://github.com/gribeiro08/Glassbook-TDE3/blob/main/imgs/subscriber.png)
+
+
