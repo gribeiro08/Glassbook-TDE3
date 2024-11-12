@@ -329,7 +329,7 @@ A comunicação entre os componentes é feita por meio de APIs RESTful e gRPC, g
 ---
 
 ## 6. Visão de Implementação
-Os microserviços são implementados em uma linguagem de programação apropriada (como Go ou Node.js) e seguem o padrão Domain-Driven Design (DDD). O código é organizado em módulos claros, facilitando a manutenção e a evolução. Cada microserviço é encapsulado em contêineres Docker e implantado no Azure Container Apps, enquanto o Azure DevOps automatiza o pipeline de integração e entrega contínua (CI/CD). 
+Os microserviços são implementados em uma linguagem de programação apropriada (Node.js). O código é organizado em módulos claros, facilitando a manutenção e a evolução. Cada microserviço é encapsulado em contêineres Docker e implantado no Azure Container Apps, enquanto o Azure DevOps automatiza o pipeline de integração e entrega contínua (CI/CD). 
 
 ---
 
